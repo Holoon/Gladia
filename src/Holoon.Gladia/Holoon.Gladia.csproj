@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<Version>1.0.0</Version>
+	<Authors>Xavier</Authors>
+	<Company>Holoon</Company>
+	<Description>Unoffical SDK for Gladia.io</Description>
+	<PackageLicenseExpression>BSD-3-Clause</PackageLicenseExpression>
+	<PackageProjectUrl>https://github.com/Holoon/Holoon.Gladia</PackageProjectUrl>
+	<PackageTags>Gladia.io Gladia SDK</PackageTags>
+	<RepositoryUrl>https://github.com/Holoon/Holoon.Gladia</RepositoryUrl>
+	<RepositoryType>GitHub</RepositoryType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="7.0.0" />
+  </ItemGroup>
+
+</Project>
