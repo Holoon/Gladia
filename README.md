@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Holoon/Gladia/raw/main/doc/gladia_logo.jpg" width="256" title="Gladia Logo"> Gladia
+  <img src="https://github.com/Holoon/Gladia/raw/main/doc/gladia_logo.jpg" width="256" title="Gladia Logo">
 </p>
 
 # Holoon.Gladia
@@ -42,13 +42,13 @@ var request = new TranscribeRequest(upload.AudioUrl,
 
 **NOTES:**
 
-- In this version, others (Live endpoints, webhooks, ...) are not implemented yet. 
-Feel free to contribute! :)
+- In this version, other endpoints (Live endpoints, webhooks, ...) are not implemented yet. 
+Feel free to contribute! 🙂
 
 ## Quick Links
 
-Gladia web site: https://www.gladia.io/
-Official Gladia repository: https://github.com/gladiaio/
+Gladia web site: https://www.gladia.io/  
+Official Gladia repository: https://github.com/gladiaio/  
 	
 ## Contributing
 
